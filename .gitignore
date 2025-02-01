@@ -1,0 +1,40 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Dependencies
+jbarreto-profile/node_modules/
+
+# Production build
+jbarreto-profile/dist/
+
+# Vue CLI local configuration
+jbarreto-profile/.vue/
+
+# Environment variables
+jbarreto-profile/.env
+jbarreto-profile/.env.local
+jbarreto-profile/.env.*.local
+
+# Editor files
+jbarreto-profile/.vscode/
+jbarreto-profile/.idea/
+
+# Mac system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
+
+# GitHub settings
+.github/
+
+# Linting cache
+jbarreto-profile/.eslintcache
+
+# Typescript
+jbarreto-profile/*.tsbuildinfo
