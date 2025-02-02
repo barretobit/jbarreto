@@ -8,14 +8,14 @@
       "role": "Software Developer"
     },
 
-    "es": {
-      "credits": "Hecho por <strong><a class='light' href='https://github.com/barretobit'>João Barreto</a></strong>",
-      "role": "Software Developer"
+    "de": {
+      "credits": "Entworfen von <strong><a class='light' href='https://github.com/barretobit'>João Barreto</a></strong>",
+      "role": "Softwareentwickler"
     },
 
     "fr": {
       "credits": "Conçu par <strong><a class='light' href='https://github.com/barretobit'>João Barreto</a></strong>",
-      "role": "Software Developer"
+      "role": "Software Développeur"
     }
   },
 

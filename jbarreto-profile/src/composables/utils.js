@@ -61,7 +61,7 @@ export function useUtils() {
    * @return {String}
    */
   const localizeDate = (stringDate, languageId) => {
-    const date = stringDate === "now" ? new Date() : parseDate(stringDate);
+    const date = stringDate === "now" ? "Present" : parseDate(stringDate);
     const options = { year: "numeric", month: "short" };
 
     const localizedDate = date.toLocaleString(languageId || "en", options);
