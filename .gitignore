@@ -7,22 +7,22 @@ yarn-error.log*
 pnpm-debug.log*
 
 # Dependencies
-jbarreto-profile/node_modules/
+node_modules/
 
 # Production build
-jbarreto-profile/dist/
+dist/
 
 # Vue CLI local configuration
-jbarreto-profile/.vue/
+.vue/
 
 # Environment variables
-jbarreto-profile/.env
-jbarreto-profile/.env.local
-jbarreto-profile/.env.*.local
+.env
+.env.local
+.env.*.local
 
 # Editor files
-jbarreto-profile/.vscode/
-jbarreto-profile/.idea/
+.vscode/
+.idea/
 
 # Mac system files
 .DS_Store
@@ -34,7 +34,7 @@ Thumbs.db
 .github/
 
 # Linting cache
-jbarreto-profile/.eslintcache
+.eslintcache
 
 # Typescript
-jbarreto-profile/*.tsbuildinfo
+*.tsbuildinfo

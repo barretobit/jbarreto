@@ -1,0 +1,89 @@
+{
+  "locales": {
+    "en": {
+      "title": "<span class='text-primary'>Educational</span> Background",
+      "description": "A glimpse into my academic trajectory and accomplishments."
+    },
+
+    "de": {
+      "title": "<span class='text-primary'>Bildungshintergrund</span>",
+      "description": "Ein Einblick in meinen akademischen Werdegang und meine Leistungen."
+    },
+
+    "fr": {
+      "title": "Parcours <span class='text-primary'>Éducatif</span>",
+      "description": "Un aperçu de mon parcours académique et de mes réalisations."
+    }
+  },
+
+  "items": [
+    {
+      "id": "postgraduation_istec",
+      "place": "@link{places.istec}",
+      "period": ["2018/09", "2019/08"],
+
+      "locales": {
+        "en": {
+          "title": "Post graduation's degree in Virtualization, Cloud & Computing",
+          "description": "Technologies: Microsoft Azure · REST APIs · ASP.NET Core"
+        },
+
+        "de": {
+          "title": "Postgraduiertenabschluss in Virtualisierung, Cloud und Computing",
+          "description": "Technologien: Microsoft Azure · REST APIs · ASP.NET Core"
+        },
+
+        "fr": {
+          "title": "Diplôme de troisième cycle en virtualisation, cloud et informatique",
+          "description": "Technologies: Microsoft Azure · REST APIs · ASP.NET Core"
+        }
+      }
+    },
+
+    {
+      "id": "bachelor_istec",
+      "place": "@link{places.istec}",
+      "period": ["2015/09", "2018/08"],
+
+      "locales": {
+        "en": {
+          "title": "Bachelor's degree in Computer Science",
+          "description": "Technologies: JavaScript · SQL · REST APIs · ASP.NET Core · Microsoft .NET · C#"
+        },
+
+        "de": {
+          "title": "Bachelor-Abschluss in Informatik",
+          "description": "Technologien: JavaScript · SQL · REST APIs · ASP.NET Core · Microsoft .NET · C#"
+        },
+
+        "fr": {
+          "title": "Licence en informatique",
+          "description": "Technologies: JavaScript · SQL · REST APIs · ASP.NET Core · Microsoft .NET · C#"
+        }
+      }
+    },
+
+    {
+      "id": "associate_istec",
+      "place": "@link{places.istec}",
+      "period": ["2014/09", "2015/08"],
+
+      "locales": {
+        "en": {
+          "title": "Associate's degree in Computer Systems Networking and IT",
+          "description": "Technologies: Windows Server; Cisco; C++; SQL; Bash/Shell; PowerShell;"
+        },
+
+        "de": {
+          "title": "Associate-Abschluss in Computer-System-Netzwerk und IT",
+          "description": "Technologien: Windows Server; Cisco; C++; SQL; Bash/Shell; PowerShell;"
+        },
+
+        "fr": {
+          "title": "Diplôme d'associé en réseaux de systèmes informatiques et technologies de l'information",
+          "description": "Technologies: Windows Server; Cisco; C++; SQL; Bash/Shell; PowerShell;"
+        }
+      }
+    }
+  ]
+}

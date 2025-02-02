@@ -1,0 +1,67 @@
+{
+  "aek": {
+    "logoUrl": "images/places/aek.png",
+    "faIcon": "fa fa-house-laptop",
+    "locales": {
+      "en": { "name": "Ärztekasse Genossenschaft" }
+    }
+  },
+
+  "acodis": {
+    "logoUrl": "images/places/acodis.png",
+    "faIcon": "fa fa-house-laptop",
+    "locales": {
+      "en": { "name": "Acodis AG" }
+    }
+  },
+
+  "novabase": {
+    "logoUrl": "images/places/novabase.png",
+    "faIcon": "fa fa-house-laptop",
+    "locales": {
+      "en": { "name": "Novabase" }
+    }
+  },
+
+  "crediresolve": {
+    "logoUrl": "images/places/crediresolve.png",
+    "faIcon": "fa fa-house-laptop",
+    "locales": {
+      "en": { "name": "CrediResolve" }
+    }
+  },
+
+  "logifarma": {
+    "logoUrl": "images/places/logifarma.png",
+    "faIcon": "fa fa-house-laptop",
+    "locales": {
+      "en": { "name": "Logifarma" }
+    }
+  },
+
+  "grupobel": {
+    "logoUrl": "images/places/grupobel.png",
+    "faIcon": "fa fa-house-laptop",
+    "locales": {
+      "en": { "name": "Grupo BEL" }
+    }
+  },
+
+  "tecmic": {
+    "logoUrl": "images/places/tecmic.png",
+    "faIcon": "fa fa-house-laptop",
+    "locales": {
+      "en": { "name": "Tecmic" }
+    }
+  },
+
+  "istec": {
+    "logoUrl": "images/places/logo-istec.png",
+    "faIcon": "fas fa-university",
+    "locales": {
+      "en": { "name": "Instituto Superior de Tecnologia Avançada" },
+      "de": { "name": "Instituto Superior de Tecnologia Avançada" },
+      "fr": { "name": "Instituto Superior de Tecnologia Avançada" }
+    }
+  }
+}
