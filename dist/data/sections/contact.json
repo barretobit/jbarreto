@@ -1,0 +1,28 @@
+{
+  "locales": {
+    "en": {
+      "title": "<span class='text-primary'>Contact</span> Me",
+      "description": "Please don't hesitate to contact me!",
+      "subtitle": "Or...",
+      "subtitleDescription": "If you prefer, you can reach out to me through the following options:"
+    },
+    "de": {
+      "title": "<span class='text-primary'>Kontakt</span>",
+      "description": "Bitte zögern Sie nicht, mich zu kontaktieren!",
+      "subtitle": "Oder...",
+      "subtitleDescription": "Wenn Sie möchten, können Sie mich über die folgenden Optionen erreichen:"
+    },
+    "fr": {
+      "title": "<span class='text-primary'>Contactez</span>-moi",
+      "description": "N'hésitez pas à me contacter!",
+      "subtitle": "Ou...",
+      "subtitleDescription": "Si vous préférez, vous pouvez me contacter grâce aux options suivantes:"
+    }
+  },
+
+  "items": [
+    "@link{profile.contact.phone}",
+    "@link{profile.contact.email}",
+    "@link{profile.contact.linkedin}"
+  ]
+}

@@ -10,7 +10,7 @@ pnpm-debug.log*
 node_modules/
 
 # Production build
-dist/
+# dist/
 
 # Vue CLI local configuration
 .vue/
