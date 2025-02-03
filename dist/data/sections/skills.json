@@ -77,15 +77,15 @@
         "value": null,
         "locales": {
           "en": {
-            "title": "Responsive Layouts",
+            "title": "APIs",
             "description": "Proficient in crafting adaptable layouts for diverse devices, ensuring optimal user experience."
           },
           "de": {
-            "title": "Diseños Responsivos",
+            "title": "APIs",
             "description": "Destacada habilidad en crear diseños adaptables para diversos dispositivos, garantizando una experiencia de usuario óptima ."
           },
           "fr": {
-            "title": "Mises en Page Réactives",
+            "title": "APIs",
             "description": "Compétent pour créer des mises en page adaptables pour divers appareils, assurant une expérience utilisateur optimale."
           }
         }
@@ -202,77 +202,108 @@
             "title": "C#",
             "description": "Experience Time: 6 years"
           },
-          "de": { "title": "C#", "description": "Experiencia: 5 años" },
-          "fr": { "title": "C#", "description": "Expérience : 5 ans" }
+          "de": {
+            "title": "C#",
+            "description": "Erfahrungszeit: 6 Jahre"
+          },
+          "fr": {
+            "title": "C#",
+            "description": "Temps d'expérience : 6 ans"
+          }
         }
       },
-
       {
         "imageIconUrl": null,
         "faIcon": "fab fa-windows",
         "value": 95,
         "locales": {
-          "en": { "title": ".NET", "description": "Experience Time: 3 years" },
-          "de": { "title": ".NET", "description": "Experiencia: 3 años" },
-          "fr": { "title": ".NET", "description": "Expérience : 3 ans" }
-        }
-      },
-
-      {
-        "imageIconUrl": null,
-        "faIcon": "fab fa-sass",
-        "value": 65,
-        "locales": {
           "en": {
-            "title": "SQL",
-            "description": "Experience Time: 2 years"
+            "title": ".NET / .NET Framework",
+            "description": "Experience Time: 6 years"
           },
-          "de": { "title": "SQL", "description": "Experiencia: 2 años" },
-          "fr": { "title": "SQL", "description": "Expérience : 2 ans" }
-        }
-      },
-
-      {
-        "imageIconUrl": null,
-        "faIcon": "fab fa-js-square",
-        "value": 85,
-        "locales": {
-          "en": {
-            "title": "JavaScript",
-            "description": "Experience Time: 3 years"
+          "de": {
+            "title": ".NET / .NET Framework",
+            "description": "Erfahrungszeit: 6 Jahre"
           },
-          "de": { "title": "JavaScript", "description": "Experiencia: 3 años" },
-          "fr": { "title": "JavaScript", "description": "Expérience : 3 ans" }
+          "fr": {
+            "title": ".NET / .NET Framework",
+            "description": "Temps d'expérience : 6 ans"
+          }
         }
       },
-
       {
         "imageIconUrl": null,
-        "faIcon": "fab fa-vuejs",
-        "value": 100,
-        "locales": {
-          "en": { "title": "Vue 3", "description": "Experience Time: 2 years" },
-          "de": { "title": "Vue 3", "description": "Experiencia: 2 años" },
-          "fr": { "title": "Vue 3", "description": "Expérience : 2 ans" }
-        }
-      },
-
-      {
-        "imageIconUrl": null,
-        "faIcon": "fab fa-react",
+        "faIcon": "fa fa-database",
         "value": 75,
         "locales": {
           "en": {
+            "title": "SQL",
+            "description": "Experience Time: 5 years"
+          },
+          "de": {
+            "title": "SQL",
+            "description": "Erfahrungszeit: 5 Jahre"
+          },
+          "fr": {
+            "title": "SQL",
+            "description": "Temps d'expérience : 5 ans"
+          }
+        }
+      },
+      {
+        "imageIconUrl": null,
+        "faIcon": "fab fa-docker",
+        "value": 55,
+        "locales": {
+          "en": {
+            "title": "Docker + Kubernetes",
+            "description": "Experience Time: 2 years"
+          },
+          "de": {
+            "title": "Docker + Kubernetes",
+            "description": "Erfahrungszeit: 2 Jahre"
+          },
+          "fr": {
+            "title": "Docker + Kubernetes",
+            "description": "Temps d'expérience : 2 ans"
+          }
+        }
+      },
+      {
+        "imageIconUrl": null,
+        "faIcon": "fab fa-react",
+        "value": 35,
+        "locales": {
+          "en": {
             "title": "React",
-            "description": "Nanodegree in React development (Udacity)<br>Experience time: 1 year"
+            "description": "Experience Time: 1 year"
           },
           "de": {
             "title": "React",
-            "description": "Nanodegree de desarrollo React (Udacity)<br>Experiencia: 1 año"
+            "description": "Erfahrungszeit: 1 Jahr"
           },
           "fr": {
             "title": "React",
-            "description": "Nanodegré en développement React (Udacity)<br>Expérience : 1 an"
+            "description": "Temps d'expérience : 1 an"
+          }
+        }
+      },
+      {
+        "imageIconUrl": null,
+        "faIcon": "fab fa-vuejs",
+        "value": 15,
+        "locales": {
+          "en": {
+            "title": "Vue",
+            "description": "Experience Time: 2 months"
+          },
+          "de": {
+            "title": "Vue",
+            "description": "Erfahrungszeit: 2 Monate"
+          },
+          "fr": {
+            "title": "Vue",
+            "description": "Temps d'expérience : 2 mois"
           }
         }
       }
@@ -350,17 +381,13 @@
             "title": "User Interface (UI) Design",
             "description": "Able to design intuitive and visually appealing user interfaces for seamless user interactions."
           },
-          "es": {
+          "de": {
             "title": "Diseño de Interfaz de Usuario (UI)",
             "description": "Capaz de diseñar interfaces de usuario intuitivas y visualmente atractivas para interacciones de usuario fluidas."
           },
           "fr": {
             "title": "Design d'Interface Utilisateur (UI)",
             "description": "Capable de concevoir des interfaces utilisateur intuitives et visuellement attrayantes pour des interactions utilisateur fluides."
-          },
-          "zh": {
-            "title": "用户界面（UI）设计",
-            "description": "能够设计直观且视觉吸引力强的用户界面，以实现无缝用户交互。"
           }
         }
       },
@@ -373,17 +400,13 @@
             "title": "Front-End Development",
             "description": "Able to code in VueJS, React JS, Swift, AngularJS and TypeScript."
           },
-          "es": {
+          "de": {
             "title": "Desarrollo Front-End",
             "description": "Capaz de codificar en VueJS, AngularJS y TypeScript."
           },
           "fr": {
             "title": "Développement Front-End",
             "description": "Capable de coder en VueJS, AngularJS et TypeScript."
-          },
-          "zh": {
-            "title": "前端开发",
-            "description": "能够编写VueJS、AngularJS和TypeScript代码。"
           }
         }
       },
@@ -396,17 +419,13 @@
             "title": "Information Visualization",
             "description": "Able to transform complex data into clear visuals."
           },
-          "es": {
+          "de": {
             "title": "Visualización de Información",
             "description": "Capaz de transformar datos complejos en visuales claros."
           },
           "fr": {
             "title": "Visualisation de l'Information",
             "description": "Capable de transformer des données complexes en visuels clairs."
-          },
-          "zh": {
-            "title": "信息可视化",
-            "description": "能够将复杂的数据转化为清晰的可视化图表。"
           }
         }
       },
@@ -419,17 +438,13 @@
             "title": "Accessibility and Inclusive Design",
             "description": "Able to create digital experiences that are accessible to all."
           },
-          "es": {
+          "de": {
             "title": "Accesibilidad y Diseño Inclusivo",
             "description": "Capaz de crear experiencias digitales accesibles para todos."
           },
           "fr": {
             "title": "Accessibilité et Design Inclusif",
             "description": "Capable de créer des expériences numériques accessibles à tous."
-          },
-          "zh": {
-            "title": "可访问性和包容性设计",
-            "description": "能够创建面向所有人的数字体验。"
           }
         }
       },
@@ -442,17 +457,13 @@
             "title": "User-Centric Data Analysis",
             "description": "Proficient in analyzing data with a focus on the needs and preferences of users, enabling data-driven decisions that align with user expectations."
           },
-          "es": {
+          "de": {
             "title": "Análisis de Datos Centrado en el Usuario",
             "description": "Competente en analizar datos con un enfoque en las necesidades y preferencias de los usuarios, lo que permite tomar decisiones basadas en datos que se alinean con las expectativas de los usuarios."
           },
           "fr": {
             "title": "Analyse de Données Axée sur l'Utilisateur",
             "description": "Compétent dans l'analyse de données axée sur les besoins et préférences des utilisateurs, permettant des décisions basées sur les données qui sont en accord avec les attentes des utilisateurs."
-          },
-          "zh": {
-            "title": "以用户为中心的数据分析",
-            "description": "熟练分析数据，专注于用户的需求和偏好，实现与用户期望相符的基于数据的决策。"
           }
         }
       },
@@ -465,17 +476,13 @@
             "title": "Mobile App User Experience",
             "description": "Skilled in crafting user-centered experiences within mobile applications, ensuring smooth and intuitive interactions."
           },
-          "es": {
+          "de": {
             "title": "Experiencia de Usuario en Aplicaciones Móviles",
             "description": "Experto en crear experiencias centradas en el usuario en aplicaciones móviles, garantizando interacciones fluidas e intuitivas."
           },
           "fr": {
             "title": "Expérience Utilisateur d'Applications Mobiles",
             "description": "Compétent dans la création d'expériences centrées sur l'utilisateur au sein des applications mobiles, garantissant des interactions fluides et intuitives."
-          },
-          "zh": {
-            "title": "移动应用用户体验",
-            "description": "擅长在移动应用中打造以用户为中心的体验，确保流畅而直观的交互。"
           }
         }
       }

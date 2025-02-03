@@ -1,220 +1,295 @@
 {
-    "locales": {
-        "en": {
-            "title": "<span class='text-primary'>Hobbies</span> & Interests",
-            "description": "This is pretty much how I spend my free time:"
-        },
-        "es": {
-            "title": "<span class='text-primary'>Pasatiempos</span> e Intereses",
-            "description": "Así es más o menos cómo paso mi tiempo libre:"
-        },
-        "fr": {
-            "title": "<span class='text-primary'>Loisirs</span> et Intérêts",
-            "description": "C'est à peu près ainsi que je passe mon temps libre:"
-        },
-        "zh": {
-            "title": "<span class='text-primary'>爱好</span>与兴趣",
-            "description": "这基本上是我空闲时间的安排："
-        }
+  "locales": {
+    "en": {
+      "title": "<span class='text-primary'>Hobbies</span> & Interests",
+      "description": "This is pretty much how I spend my free time:"
+    },
+    "de": {
+      "title": "<span class='text-primary'>Hobbys</span> & Interessen",
+      "description": "So verbringe ich im Wesentlichen meine Freizeit:"
+    },
+    "fr": {
+      "title": "<span class='text-primary'>Loisirs</span> & Intérêts",
+      "description": "C'est à peu près ainsi que je passe mon temps libre:"
+    }
+  },
+
+  "subcategories": [
+    {
+      "id": "activities",
+      "type": "pie",
+      "progress": "number",
+      "faIcon": "fa-solid fa-clock",
+      "locales": {
+        "en": { "title": null }
+      }
     },
 
-    "subcategories": [
-        {
-            "id": "activities",
-            "type": "pie",
-            "progress": "number",
-            "faIcon": "fa-solid fa-clock",
-            "locales": {
-                "en": {"title": null}
-            }
-        },
+    {
+      "id": "interests",
+      "type": "list",
+      "progress": null,
+      "faIcon": "fa fa-book-open-reader",
+      "locales": {
+        "en": { "title": "Interests" },
+        "de": { "title": "Interessen" },
+        "fr": { "title": "Centres d'intérêt" }
+      }
+    }
+  ],
 
-        {
-            "id": "interests",
-            "type": "list",
-            "progress": null,
-            "faIcon": "fa fa-book-open-reader",
-            "locales": {
-                "en": {"title": "Interests"},
-                "es": {"title": "Intereses"},
-                "fr": {"title": "Centres d'intérêt"},
-                "zh": {"title": "兴趣"}
-            }
+  "items": {
+    "activities": [
+      {
+        "imageIconUrl": null,
+        "faIcon": "fas fa-users",
+        "value": 20,
+        "locales": {
+          "en": {
+            "title": "Family & Friends",
+            "description": "Time spent with cherished loved ones."
+          },
+          "de": {
+            "title": "Familie & Freunde",
+            "description": "Zeit mit geschätzten Lieben verbringen."
+          },
+          "fr": {
+            "title": "Famille et amis",
+            "description": "Du temps passé avec des êtres chers."
+          }
         }
+      },
+      {
+        "imageIconUrl": null,
+        "faIcon": "fas fa-tasks",
+        "value": 20,
+        "locales": {
+          "en": {
+            "title": "My Projects",
+            "description": "Keeping up with new frameworks and methodologies."
+          },
+          "de": {
+            "title": "Meine Projekte",
+            "description": "Mit neuen Frameworks und Methoden auf dem Laufenden bleiben."
+          },
+          "fr": {
+            "title": "Mes projets",
+            "description": "Se tenir au courant des nouveaux frameworks et méthodologies."
+          }
+        }
+      },
+      {
+        "imageIconUrl": null,
+        "faIcon": "fas fa-couch",
+        "value": 5,
+        "locales": {
+          "en": {
+            "title": "Relaxing",
+            "description": "Enjoying some hot tea and classic music."
+          },
+          "de": {
+            "title": "Entspannen",
+            "description": "Eine Tasse heißen Tee und klassische Musik genießen."
+          },
+          "fr": {
+            "title": "Relaxation",
+            "description": "Profiter d'un thé chaud et de musique classique."
+          }
+        }
+      },
+      {
+        "imageIconUrl": null,
+        "faIcon": "fas fa-book",
+        "value": 10,
+        "locales": {
+          "en": {
+            "title": "Studying",
+            "description": "Could be Finance or Gardening. Always learning."
+          },
+          "de": {
+            "title": "Lernen",
+            "description": "Kann Finanzen oder Gartenarbeit sein. Ich lerne immer."
+          },
+          "fr": {
+            "title": "Étudier",
+            "description": "Peut-être la finance ou le jardinage. J'apprends toujours."
+          }
+        }
+      },
+      {
+        "imageIconUrl": null,
+        "faIcon": "fas fa-dumbbell",
+        "value": 20,
+        "locales": {
+          "en": {
+            "title": "Exercise",
+            "description": "Dedicating time to physical well-being."
+          },
+          "de": {
+            "title": "Sport",
+            "description": "Zeit für körperliches Wohlbefinden widmen."
+          },
+          "fr": {
+            "title": "Exercice",
+            "description": "Consacrer du temps au bien-être physique."
+          }
+        }
+      },
+      {
+        "imageIconUrl": null,
+        "faIcon": "fas fa-utensils",
+        "value": 5,
+        "locales": {
+          "en": {
+            "title": "Cooking",
+            "description": "As a Portuguese, this is part of the culture."
+          },
+          "de": {
+            "title": "Kochen",
+            "description": "Als Portugiese ist dies Teil der Kultur."
+          },
+          "fr": {
+            "title": "Cuisine",
+            "description": "En tant que Portugais, cela fait partie de la culture."
+          }
+        }
+      },
+      {
+        "imageIconUrl": null,
+        "faIcon": "fas fa-map",
+        "value": 20,
+        "locales": {
+          "en": {
+            "title": "Exploring",
+            "description": "Either walking or cycling, thrilled to explore new places."
+          },
+          "de": {
+            "title": "Erkunden",
+            "description": "Entweder zu Fuß oder mit dem Fahrrad, begeistert, neue Orte zu erkunden."
+          },
+          "fr": {
+            "title": "Explorer",
+            "description": "Que ce soit à pied ou à vélo, ravi d'explorer de nouveaux endroits."
+          }
+        }
+      }
     ],
 
-    "items": {
-        "activities": [
-            {
-                "imageIconUrl": null,
-                "faIcon": "fas fa-users",
-                "value": 15,
-                "locales": {
-                    "en": {"title": "Family & Friends", "description": "Time spent with cherished loved ones."},
-                    "es": {"title": "Familia y amigos", "description": "Tiempo con seres queridos apreciados."},
-                    "fr": {"title": "Famille et amis", "description": "Temps passé avec des proches chéris."},
-                    "zh": {"title": "家人和朋友", "description": "与珍爱的亲人共度时光，创造终身难忘的回忆。"}
-                }
-            },
-
-            {
-                "imageIconUrl": null,
-                "faIcon": "fas fa-tasks",
-                "value": 26,
-                "locales": {
-                    "en": {"title": "My Projects", "description": "Pursuing my creative endeavors."},
-                    "es": {"title": "Mis Proyectos", "description": "Persiguiendo mis proyectos creativos."},
-                    "fr": {"title": "Mes Projets", "description": "Poursuivre mes projets créatifs."},
-                    "zh": {"title": "个人项目", "description": "追求创意事业，将想法变成现实。"}
-                }
-            },
-
-            {
-                "imageIconUrl": null,
-                "faIcon": "fas fa-couch",
-                "value": 11,
-                "locales": {
-                    "en": {"title": "Relaxing", "description": "Indulging in tranquility, unwinding the stresses of life."},
-                    "es": {"title": "Relajación", "description": "Disfrutando de la tranquilidad, deshaciendo el estrés de la vida."},
-                    "fr": {"title": "Détente", "description": "S'adonner à la tranquillité, dénouer les tensions de la vie."},
-                    "zh": {"title": "放松", "description": "沉浸在宁静中，舒缓生活的压力。"}
-                }
-            },
-
-            {
-                "imageIconUrl": null,
-                "faIcon": "fas fa-book",
-                "value": 9,
-                "locales": {
-                    "en": {"title": "Studying", "description": "Embarking on a continuous journey of learning."},
-                    "es": {"title": "Estudio", "description": "Embarcando en un viaje continuo de aprendizaje."},
-                    "fr": {"title": "Études", "description": "Entamer un voyage continu d'apprentissage."},
-                    "zh": {"title": "学习", "description": "踏上持续的学习和自我提升之旅。"}
-                }
-            },
-
-            {
-                "imageIconUrl": null,
-                "faIcon": "fas fa-dumbbell",
-                "value": 17,
-                "locales": {
-                    "en": {"title": "Exercise", "description": "Dedicating time to physical well-being."},
-                    "es": {"title": "Ejercicio", "description": "Dedicando tiempo al bienestar físico."},
-                    "fr": {"title": "Exercice", "description": "Consacrer du temps au bien-être physique."},
-                    "zh": {"title": "锻炼", "description": "致力于身体健康，培养健康的生活方式。"}
-                }
-            },
-
-            {
-                "imageIconUrl": null,
-                "faIcon": "fas fa-utensils",
-                "value": 19,
-                "locales": {
-                    "en": {"title": "Cooking", "description": "Creating culinary masterpieces."},
-                    "es": {"title": "Cocina", "description": "Creando obras maestras culinarias."},
-                    "fr": {"title": "Cuisine", "description": "Créer des chefs-d'œuvre culinaires."},
-                    "zh": {"title": "烹饪", "description": "创造烹饪杰作，在每道菜肴中注入风味。"}
-                }
-            },
-
-            {
-                "imageIconUrl": null,
-                "faIcon": "fas fa-map",
-                "value": 4,
-                "locales": {
-                    "en": {"title": "Exploring", "description": "Venturing into new realms, seeking the thrill of uncharted discoveries."},
-                    "es": {"title": "Exploración", "description": "Adentrándome en nuevos mundos, buscando la emoción de descubrimientos inexplorados."},
-                    "fr": {"title": "Exploration", "description": "S'aventurer dans de nouveaux domaines, rechercher le frisson de découvertes inexplorées."},
-                    "zh": {"title": "探索", "description": "涉足新领域，寻求未知发现的刺激。"}
-                }
-            }
-        ],
-
-        "interests": [
-            {
-                "imageIconUrl": null,
-                "faIcon": "fas fa-paint-brush",
-                "value": null,
-                "locales": {
-                    "en": {
-                        "title": "User Experience Design",
-                        "description": "Proficient in crafting user-centric digital experiences. Adept at making technology intuitive and accessible, enhancing user satisfaction."
-                    },
-                    "es": {
-                        "title": "Diseño de Experiencia de Usuario",
-                        "description": "Destacada habilidad en crear experiencias digitales centradas en el usuario. Experto en hacer que la tecnología sea intuitiva y accesible, mejorando la satisfacción del usuario."
-                    },
-                    "fr": {
-                        "title": "Conception d'Expérience Utilisateur",
-                        "description": "Compétent dans la création d'expériences numériques centrées sur l'utilisateur. Habile à rendre la technologie intuitive et accessible, améliorant la satisfaction des utilisateurs."
-                    },
-                    "zh": {
-                        "title": "用户体验设计",
-                        "description": "擅长创造以用户为中心的数字体验。精通使技术直观易用，提升用户满意度。"
-                    }
-                }
-            },
-
-            {
-                "imageIconUrl": null,
-                "faIcon": "fas fa-code",
-                "value": null,
-                "locales": {
-                    "en": {"title": "Programming", "description": "Exploring code, algorithms, and building software solutions for real-world challenges."},
-                    "es": {"title": "Programación", "description": "Explorar código, algoritmos y desarrollar soluciones de software para desafíos del mundo real."},
-                    "fr": {"title": "Programmation", "description": "Exploration du code, des algorithmes et création de solutions logicielles pour des défis réels."},
-                    "zh": {"title": "编程", "description": "探索代码、算法，为现实世界的挑战构建软件解决方案。"}
-                }
-            },
-
-            {
-                "imageIconUrl": null,
-                "faIcon": "fas fa-music",
-                "value": null,
-                "locales": {
-                    "en": {"title": "Music", "description": "Playing instruments, composing, and embracing the harmony of diverse musical genres."},
-                    "es": {"title": "Música", "description": "Tocar instrumentos, componer y abrazar la armonía de diversos géneros musicales."},
-                    "fr": {"title": "Musique", "description": "Jouer d'instruments, composer et apprécier l'harmonie de genres musicaux variés."},
-                    "zh": {"title": "音乐", "description": "演奏乐器，作曲，融合多种音乐流派的和谐。"}
-                }
-            },
-
-            {
-                "imageIconUrl": null,
-                "faIcon": "fas fa-users",
-                "value": null,
-                "locales": {
-                    "en": {"title": "User Research", "description": "Delving into user behavior and insights to shape effective design strategies."},
-                    "es": {"title": "Investigación de Usuarios", "description": "Profundizar en el comportamiento y perspectivas del usuario para definir estrategias de diseño efectivas."},
-                    "fr": {"title": "Recherche Utilisateur", "description": "Explorer le comportement et les perceptions des utilisateurs pour façonner des stratégies de conception efficaces."},
-                    "zh": {"title": "用户研究", "description": "深入研究用户行为和见解，塑造有效的设计策略。"}
-                }
-            },
-
-            {
-                "imageIconUrl": null,
-                "faIcon": "fas fa-desktop",
-                "value": null,
-                "locales": {
-                    "en": {"title": "Front-End Development", "description": "Crafting interactive web interfaces using modern technologies for seamless user experiences."},
-                    "es": {"title": "Desarrollo Front-End", "description": "Elaborar interfaces web interactivas utilizando tecnologías modernas para experiencias de usuario fluidas."},
-                    "fr": {"title": "Développement Frontal", "description": "Conception d'interfaces web interactives utilisant des technologies modernes pour des expériences utilisateur fluides."},
-                    "zh": {"title": "前端开发", "description": "使用现代技术打造交互式网页界面，实现无缝的用户体验。"}
-                }
-            },
-
-            {
-                "imageIconUrl": null,
-                "faIcon": "fas fa-palette",
-                "value": null,
-                "locales": {
-                    "en": {"title": "Visual Arts", "description": "Exploring visual aesthetics, graphic design, and expressing ideas through artistic creativity."},
-                    "es": {"title": "Artes Visuales", "description": "Explorar la estética visual, el diseño gráfico y expresar ideas a través de la creatividad artística."},
-                    "fr": {"title": "Arts Visuels", "description": "Exploration de l'esthétique visuelle, du design graphique et expression d'idées par la créativité artistique."},
-                    "zh": {"title": "视觉艺术", "description": "探索视觉美学，平面设计，通过艺术创意表达思想。"}
-                }
-            }
-        ]
-
-    }
+    "interests": [
+      {
+        "imageIconUrl": null,
+        "faIcon": "fas fa-clock",
+        "value": null,
+        "locales": {
+          "en": {
+            "title": "Watches",
+            "description": "A well-crafted watch is more than just a timepiece. It's a miniature work of art on my wrist."
+          },
+          "de": {
+            "title": "Uhren",
+            "description": "Eine gut gefertigte Uhr ist mehr als nur ein Zeitmesser. Sie ist ein kleines Kunstwerk an meinem Handgelenk."
+          },
+          "fr": {
+            "title": "Montres",
+            "description": "Une montre bien conçue est plus qu'un simple garde-temps. C'est une œuvre d'art miniature à mon poignet."
+          }
+        }
+      },
+      {
+        "imageIconUrl": null,
+        "faIcon": "fas fa-code",
+        "value": null,
+        "locales": {
+          "en": {
+            "title": "Programming",
+            "description": "Coding is my creative outlet. I love the challenge of building something from nothing."
+          },
+          "de": {
+            "title": "Programmieren",
+            "description": "Programmieren ist mein kreatives Ventil. Ich liebe die Herausforderung, etwas aus dem Nichts zu erschaffen."
+          },
+          "fr": {
+            "title": "Programmation",
+            "description": "Le codage est mon exutoire créatif. J'aime le défi de construire quelque chose à partir de rien."
+          }
+        }
+      },
+      {
+        "imageIconUrl": null,
+        "faIcon": "fas fa-bicycle",
+        "value": null,
+        "locales": {
+          "en": {
+            "title": "Cycling",
+            "description": "Cycling is always my way to de-stress and get the blood flowing."
+          },
+          "de": {
+            "title": "Radfahren",
+            "description": "Radfahren ist immer mein Weg, um Stress abzubauen und den Kreislauf in Schwung zu bringen."
+          },
+          "fr": {
+            "title": "Cyclisme",
+            "description": "Le cyclisme est toujours ma façon de me détendre et de faire circuler le sang."
+          }
+        }
+      },
+      {
+        "imageIconUrl": null,
+        "faIcon": "fas fa-film",
+        "value": null,
+        "locales": {
+          "en": {
+            "title": "Documentaries",
+            "description": "Documentaries open my eyes to the world and spark my curiosity to learn more."
+          },
+          "de": {
+            "title": "Dokumentationen",
+            "description": "Dokumentationen öffnen mir die Augen für die Welt und wecken meine Neugier, mehr zu lernen."
+          },
+          "fr": {
+            "title": "Documentaires",
+            "description": "Les documentaires m'ouvrent les yeux sur le monde et éveillent ma curiosité d'en savoir plus."
+          }
+        }
+      },
+      {
+        "imageIconUrl": null,
+        "faIcon": "fas fa-keyboard",
+        "value": null,
+        "locales": {
+          "en": {
+            "title": "Technology",
+            "description": "I'm always eager to explore the latest tech innovations and how they can improve our lives."
+          },
+          "de": {
+            "title": "Technologie",
+            "description": "Ich bin immer gespannt darauf, die neuesten technologischen Innovationen zu erforschen und wie sie unser Leben verbessern können."
+          },
+          "fr": {
+            "title": "Technologie",
+            "description": "Je suis toujours impatient d'explorer les dernières innovations technologiques et comment elles peuvent améliorer nos vies."
+          }
+        }
+      },
+      {
+        "imageIconUrl": null,
+        "faIcon": "fas fa-coins",
+        "value": null,
+        "locales": {
+          "en": {
+            "title": "Finance",
+            "description": "Understanding finance empowers me to make informed decisions and build a secure future."
+          },
+          "de": {
+            "title": "Finanzen",
+            "description": "Finanzwissen befähigt mich, fundierte Entscheidungen zu treffen und eine sichere Zukunft aufzubauen."
+          },
+          "fr": {
+            "title": "Finance",
+            "description": "Comprendre la finance me permet de prendre des décisions éclairées et de construire un avenir sûr."
+          }
+        }
+      }
+    ]
+  }
 }

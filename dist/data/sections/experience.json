@@ -25,29 +25,21 @@
         "en": {
           "title": "Software Engineer",
           "description": [
-            "• Migrated legacy .NET Framework 4.# projects to .NET 8. \n• Developed and deployed applications using .NET 8, PostgreSQL, and Kubernetes.",
-            "Implemented code best practices, addressing code smells reported by SonarQube.",
-            "Migrated data from SQL to PostgreSQL."
+            "• Migrated legacy .NET Framework 4.# projects to .NET 8. \n• Developed and deployed applications using .NET 8, PostgreSQL, and Kubernetes. \n• Implemented code best practices, addressing code smells reported by SonarQube. \n• Migrated data from SQL to PostgreSQL."
           ],
           "tags": ["C#", ".NET", "SQL", "PostgreSQL", "Swagger Api", "Blazor"]
         },
         "de": {
           "title": "Softwareentwickler",
           "description": [
-            "Migrierte Legacy-.NET-Framework-4.#-Projekte \nzu .NET 8.",
-            "Entwickelte und implementierte Anwendungen mit .NET 8, PostgreSQL und Kubernetes.",
-            "Implementierte Code-Best-Practices und behebt Code-Smells, die von SonarQube gemeldet wurden.",
-            "Migrierte Daten von SQL zu PostgreSQL."
+            "• Migrierte Legacy-.NET-Framework-4.#-Projekte zu .NET 8. \n• Entwickelte und implementierte Anwendungen mit .NET 8, PostgreSQL und Kubernetes. \n• Implementierte Code-Best-Practices und behebt Code-Smells, die von SonarQube gemeldet wurden. \n• Migrierte Daten von SQL zu PostgreSQL."
           ],
           "tags": ["C#", ".NET", "SQL", "PostgreSQL", "Swagger Api", "Blazor"]
         },
         "fr": {
           "title": "Développeur",
           "description": [
-            "Migré des projets hérités .NET Framework 4.# vers .NET 8.",
-            "Développé et déployé des applications utilisant .NET 8, PostgreSQL et Kubernetes.",
-            "Implémenté des bonnes pratiques de code, en traitant les problèmes signalés par SonarQube.",
-            "Migré des données de SQL vers PostgreSQL."
+            "• Migré des projets hérités .NET Framework 4.# vers .NET 8. \n• Développé et déployé des applications utilisant .NET 8, PostgreSQL et Kubernetes. \n• Implémenté des bonnes pratiques de code, en traitant les problèmes signalés par SonarQube. \n• Migré des données de SQL vers PostgreSQL."
           ],
           "tags": ["C#", ".NET", "SQL", "PostgreSQL", "Swagger Api", "Blazor"]
         }
@@ -62,30 +54,21 @@
         "en": {
           "title": "Software Engineer",
           "description": [
-            "Developed and maintained applications using functional programming principles in a Haskell-based language.",
-            "Migrated legacy projects to a new platform.",
-            "Handled support tickets, replying directly to the customer and resolving issues on live systems.",
-            "Implemented code best practices and wrote documentation."
+            "• Developed and maintained applications using functional programming principles in a Haskell-based language. \n• Migrated legacy projects to a new platform. \n• Handled support tickets, replying directly to the customer and resolving issues on live systems. \n• Implemented code best practices and wrote documentation."
           ],
           "tags": ["REST APIs", "Haskell", "Functional Programming"]
         },
         "de": {
           "title": "Softwareentwickler",
           "description": [
-            "Entwickelte und wartete Anwendungen unter Verwendung von funktionalen Programmierprinzipien in einer Haskell-basierten Sprache.",
-            "Migrierte Legacy-Projekte auf eine neue Plattform.",
-            "Bearbeitete Support-Tickets, antwortete direkt an den Kunden und löste Probleme in Live-Systemen.",
-            "Implementierte Best Practices im Code und erstellte Dokumentationen."
+            "• Entwickelte und wartete Anwendungen unter Verwendung von funktionalen Programmierprinzipien in einer Haskell-basierten Sprache. \n• Migrierte Legacy-Projekte auf eine neue Plattform. \n• Bearbeitete Support-Tickets, antwortete direkt an den Kunden und löste Probleme in Live-Systemen. \n• Implementierte Best Practices im Code und erstellte Dokumentationen."
           ],
           "tags": ["REST APIs", "Haskell", "Functional Programming"]
         },
         "fr": {
           "title": "Développeur",
           "description": [
-            "Développé et maintenu des applications en utilisant des principes de programmation fonctionnelle dans un langage basé sur Haskell.",
-            "Migré des projets hérités vers une nouvelle plateforme.",
-            "Géré des tickets de support, en répondant directement aux clients et en résolvant des problèmes sur des systèmes en production.",
-            "Implémenté des bonnes pratiques de codage et rédigé de la documentation."
+            "• Développé et maintenu des applications en utilisant des principes de programmation fonctionnelle dans un langage basé sur Haskell. \n• Migré des projets hérités vers une nouvelle plateforme. \n• Géré des tickets de support, en répondant directement aux clients et en résolvant des problèmes sur des systèmes en production. \n• Implémenté des bonnes pratiques de codage et rédigé de la documentation."
           ],
           "tags": ["REST APIs", "Haskell", "Functional Programming"]
         }
@@ -100,30 +83,21 @@
         "en": {
           "title": "Full Stack Developer",
           "description": [
-            "Developed and delivered new solutions to respond to business requirements using C#, .NET, .NET Framework, ReactJS, and SQL Databases.",
-            "Gathered and translated client expectations into technical specifications.",
-            "Improved and refactored existing deployed solutions.",
-            "Experienced with Docker, REST APIs, test-driven development, and Agile/Scrum methodologies."
+            "• Developed and delivered new solutions to respond to business requirements using C#, .NET, .NET Framework, ReactJS, and SQL Databases. \n• Gathered and translated client expectations into technical specifications. \n• Improved and refactored existing deployed solutions. \n• Experienced with Docker, REST APIs, test-driven development, and Agile/Scrum methodologies."
           ],
           "tags": ["C#", ".NET", "SQL", "ReactJs", "Azure", "JavaScript"]
         },
         "de": {
           "title": "Full Stack Entwickler",
           "description": [
-            "Entwickelte und lieferte neue Lösungen zur Erfüllung geschäftlicher Anforderungen unter Verwendung von C#, .NET, .NET Framework, ReactJS und SQL-Datenbanken.",
-            "Erfasste und übersetzte Kundenerwartungen in technische Spezifikationen.",
-            "Verbesserte und refaktorierte bestehende bereitgestellte Lösungen.",
-            "Erfahren in Docker, REST-APIs, testgetriebener Entwicklung und Agile/Scrum-Methoden."
+            "• Entwickelte und lieferte neue Lösungen zur Erfüllung geschäftlicher Anforderungen unter Verwendung von C#, .NET, .NET Framework, ReactJS und SQL-Datenbanken. \n• Erfasste und übersetzte Kundenerwartungen in technische Spezifikationen. \n• Verbesserte und refaktorierte bestehende bereitgestellte Lösungen. \n• Erfahren in Docker, REST-APIs, testgetriebener Entwicklung und Agile/Scrum-Methoden."
           ],
           "tags": ["C#", ".NET", "SQL", "ReactJs", "Azure", "JavaScript"]
         },
         "fr": {
           "title": "Développeur Full Stack",
           "description": [
-            "Développé et livré de nouvelles solutions pour répondre aux exigences métier en utilisant C#, .NET, .NET Framework, ReactJS et des bases de données SQL.",
-            "Recueilli et traduit les attentes des clients en spécifications techniques.",
-            "Amélioré et refactorisé des solutions déjà déployées.",
-            "Expérience avec Docker, les API REST, le développement piloté par les tests et les méthodologies Agile/Scrum."
+            "• Développé et livré de nouvelles solutions pour répondre aux exigences métier en utilisant C#, .NET, .NET Framework, ReactJS et des bases de données SQL. \n• Recueilli et traduit les attentes des clients en spécifications techniques. \n• Amélioré et refactorisé des solutions déjà déployées. \n• Expérience avec Docker, les API REST, le développement piloté par les tests et les méthodologies Agile/Scrum."
           ],
           "tags": ["C#", ".NET", "SQL", "ReactJs", "Azure", "JavaScript"]
         }
@@ -138,24 +112,21 @@
         "en": {
           "title": "Software Engineer",
           "description": [
-            "Developed and delivered an application to register and control all the clients, documents, bank statements, and data related to leads, using C# .NET Framework 4.8.1 Windows Forms Application.",
-            "Database deployed in Azure SQL."
+            "• Developed and delivered an application to register and control all the clients, documents, bank statements, and data related to leads, using C# .NET Framework 4.8.1 Windows Forms Application. \n• Database deployed in Azure SQL."
           ],
           "tags": ["C#", ".NET", ".NET Framework", "SQL", "WinForms", "Azure"]
         },
         "de": {
           "title": "Softwareentwickler",
           "description": [
-            "Entwickelte und lieferte eine Anwendung zur Registrierung und Verwaltung aller Kunden, Dokumente, Kontoauszüge und datenbezogenen Leads mit C# .NET Framework 4.8.1 Windows Forms-Anwendung.",
-            "Datenbank in Azure SQL bereitgestellt."
+            "• Entwickelte und lieferte eine Anwendung zur Registrierung und Verwaltung aller Kunden, Dokumente, Kontoauszüge und datenbezogenen Leads mit C# .NET Framework 4.8.1 Windows Forms-Anwendung. \n• Datenbank in Azure SQL bereitgestellt."
           ],
           "tags": ["C#", ".NET", ".NET Framework", "SQL", "WinForms", "Azure"]
         },
         "fr": {
           "title": "Développeur",
           "description": [
-            "Développé et livré une application pour enregistrer et contrôler tous les clients, documents, relevés bancaires et données liées aux prospects, en utilisant une application Windows Forms C# .NET Framework 4.8.1.",
-            "Base de données déployée dans Azure SQL."
+            "• Développé et livré une application pour enregistrer et contrôler tous les clients, documents, relevés bancaires et données liées aux prospects, en utilisant une application Windows Forms C# .NET Framework 4.8.1. \n• Base de données déployée dans Azure SQL."
           ],
           "tags": ["C#", ".NET", ".NET Framework", "SQL", "WinForms", "Azure"]
         }
@@ -170,10 +141,7 @@
         "en": {
           "title": "Full Stack Developer",
           "description": [
-            "Implemented CI/CD pipelines using Atlassian Jira, Bamboo, and PowerShell.",
-            "Developed and maintained applications using C#, .NET Framework, VB.NET, ASP.NET MVC, and SQL Databases.",
-            "Implemented Microsoft Azure Application Insights in Web and Desktop Applications.",
-            "Conducted functional and technical analysis."
+            "• Implemented CI/CD pipelines using Atlassian Jira, Bamboo, and PowerShell. \n• Developed and maintained applications using C#, .NET Framework, VB.NET, ASP.NET MVC, and SQL Databases. \n• Implemented Microsoft Azure Application Insights in Web and Desktop Applications. \n• Conducted functional and technical analysis."
           ],
           "tags": [
             "C#",
@@ -187,10 +155,7 @@
         "de": {
           "title": "Full Stack Entwickler",
           "description": [
-            "Implementierte CI/CD-Pipelines mit Atlassian Jira, Bamboo und PowerShell.",
-            "Entwickelte und wartete Anwendungen mit C#, .NET Framework, VB.NET, ASP.NET MVC und SQL-Datenbanken.",
-            "Implementierte Microsoft Azure Application Insights in Web- und Desktop-Anwendungen.",
-            "Führte funktionale und technische Analysen durch."
+            "• Implementierte CI/CD-Pipelines mit Atlassian Jira, Bamboo und PowerShell. \n• Entwickelte und wartete Anwendungen mit C#, .NET Framework, VB.NET, ASP.NET MVC und SQL-Datenbanken. \n• Implementierte Microsoft Azure Application Insights in Web- und Desktop-Anwendungen. \n• Führte funktionale und technische Analysen durch."
           ],
           "tags": [
             "C#",
@@ -204,10 +169,7 @@
         "fr": {
           "title": "Développeur Full Stack",
           "description": [
-            "Implémenté des pipelines CI/CD en utilisant Atlassian Jira, Bamboo et PowerShell.",
-            "Développé et maintenu des applications avec C#, .NET Framework, VB.NET, ASP.NET MVC et des bases de données SQL.",
-            "Implémenté Microsoft Azure Application Insights dans des applications Web et Desktop.",
-            "Réalisé des analyses fonctionnelles et techniques."
+            "• Implémenté des pipelines CI/CD en utilisant Atlassian Jira, Bamboo et PowerShell. \n• Développé et maintenu des applications avec C#, .NET Framework, VB.NET, ASP.NET MVC et des bases de données SQL. \n• Implémenté Microsoft Azure Application Insights dans des applications Web et Desktop. \n• Réalisé des analyses fonctionnelles et techniques."
           ],
           "tags": [
             "C#",
@@ -229,21 +191,21 @@
         "en": {
           "title": "System Engineer",
           "description": [
-            "Developed websites for Grupo BEL and its internal companies using WordPress, HTML5, CSS3, and Bootstrap."
+            "• Developed websites for Grupo BEL and its internal companies using WordPress, HTML5, CSS3, and Bootstrap."
           ],
           "tags": ["HTML5", "CSS3", "WordPress", "Bootstrap"]
         },
         "de": {
           "title": "Systemingenieur",
           "description": [
-            "Entwickelte Websites für Grupo BEL und deren interne Unternehmen mit WordPress, HTML5, CSS3 und Bootstrap."
+            "• Entwickelte Websites für Grupo BEL und deren interne Unternehmen mit WordPress, HTML5, CSS3 und Bootstrap."
           ],
           "tags": ["HTML5", "CSS3", "WordPress", "Bootstrap"]
         },
         "fr": {
           "title": "Ingénieur Système",
           "description": [
-            "Développé des sites Web pour Grupo BEL et ses entreprises internes en utilisant WordPress, HTML5, CSS3 et Bootstrap."
+            "• Développé des sites Web pour Grupo BEL et ses entreprises internes en utilisant WordPress, HTML5, CSS3 et Bootstrap."
           ],
           "tags": ["HTML5", "CSS3", "WordPress", "Bootstrap"]
         }
@@ -258,24 +220,21 @@
         "en": {
           "title": "Service Technician",
           "description": [
-            "Provided technical support to end-users, including troubleshooting hardware and software issues.",
-            "Assisted with system administration tasks and IT equipment maintenance."
+            "• Provided technical support to end-users, including troubleshooting hardware and software issues. \n• Assisted with system administration tasks and IT equipment maintenance."
           ],
           "tags": ["Windows Server", "Hardware", "Helpdesk"]
         },
         "de": {
           "title": "Servicetechniker",
           "description": [
-            "Technischen Support für Endbenutzer bereitgestellt, einschließlich Fehlerbehebung bei Hardware- und Softwareproblemen.",
-            "Unterstützung bei Systemadministrationsaufgaben und Wartung von IT-Geräten."
+            "• Technischen Support für Endbenutzer bereitgestellt, einschließlich Fehlerbehebung bei Hardware- und Softwareproblemen. \n• Unterstützung bei Systemadministrationsaufgaben und Wartung von IT-Geräten."
           ],
           "tags": ["Windows Server", "Hardware", "Helpdesk"]
         },
         "fr": {
           "title": "Technicien de Service",
           "description": [
-            "Fourniture de support technique aux utilisateurs finaux, y compris le dépannage des problèmes matériels et logiciels.",
-            "Assistance pour les tâches d'administration système et la maintenance des équipements informatiques."
+            "• Fourniture de support technique aux utilisateurs finaux, y compris le dépannage des problèmes matériels et logiciels. \n• Assistance pour les tâches d'administration système et la maintenance des équipements informatiques."
           ],
           "tags": ["Windows Server", "Hardware", "Helpdesk"]
         }
