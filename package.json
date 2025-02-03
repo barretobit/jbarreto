@@ -1,5 +1,5 @@
 {
-  "name": "vue-resume-template",
+  "name": "jbarreto",
   "private": true,
   "version": "1.0.0",
   "type": "module",
@@ -24,6 +24,7 @@
     "@vitejs/plugin-vue": "^4.1.0",
     "gh-pages": "^6.3.0",
     "sass": "^1.62.1",
-    "vite": "^4.3.2"
+    "vite": "^4.3.2",
+    "vue": "^3.2.47"
   }
 }
