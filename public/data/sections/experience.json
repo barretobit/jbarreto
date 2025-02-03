@@ -24,17 +24,23 @@
       "locales": {
         "en": {
           "title": "Software Engineer",
-          "description": "Contributed to designing intuitive and user-friendly web application interfaces, creating engaging and seamless user experiences. Collaborated closely with cross-functional teams and stakeholders to ensure designs aligned with business goals and user needs.",
+          "description": [
+            "• Migrated legacy .NET Framework 4.# projects to .NET 8. \n• Developed and deployed applications using .NET 8, PostgreSQL, and Kubernetes. \n• Implemented code best practices, addressing code smells reported by SonarQube. \n• Migrated data from SQL to PostgreSQL."
+          ],
           "tags": ["C#", ".NET", "SQL", "PostgreSQL", "Swagger Api", "Blazor"]
         },
         "de": {
-          "title": "Software En",
-          "description": "Contribuí al diseño de interfaces de aplicaciones web intuitivas y amigables para el usuario, creando experiencias de usuario atractivas y fluidas. Colaboré estrechamente con equipos multifuncionales e interesados para asegurarme de que los diseños se alinearan con los objetivos comerciales y las necesidades de los usuarios.",
+          "title": "Softwareentwickler",
+          "description": [
+            "• Migrierte Legacy-.NET-Framework-4.#-Projekte zu .NET 8. \n• Entwickelte und implementierte Anwendungen mit .NET 8, PostgreSQL und Kubernetes. \n• Implementierte Code-Best-Practices und behebt Code-Smells, die von SonarQube gemeldet wurden. \n• Migrierte Daten von SQL zu PostgreSQL."
+          ],
           "tags": ["C#", ".NET", "SQL", "PostgreSQL", "Swagger Api", "Blazor"]
         },
         "fr": {
-          "title": "Designer UX",
-          "description": "Contribué à la conception d'interfaces d'applications web intuitives et conviviales, créant ainsi des expériences utilisateur engageantes et fluides. Collaboré étroitement avec des équipes pluridisciplinaires et des parties prenantes pour garantir que les designs soient alignés sur les objectifs commerciaux et les besoins des utilisateurs.",
+          "title": "Développeur",
+          "description": [
+            "• Migré des projets hérités .NET Framework 4.# vers .NET 8. \n• Développé et déployé des applications utilisant .NET 8, PostgreSQL et Kubernetes. \n• Implémenté des bonnes pratiques de code, en traitant les problèmes signalés par SonarQube. \n• Migré des données de SQL vers PostgreSQL."
+          ],
           "tags": ["C#", ".NET", "SQL", "PostgreSQL", "Swagger Api", "Blazor"]
         }
       }
@@ -46,18 +52,24 @@
       "period": ["2022/06", "2022/10"],
       "locales": {
         "en": {
-          "title": "Senior UI/UX Designer",
-          "description": "Led design projects, conducted comprehensive user research, and utilized data-driven insights to enhance user experiences. Managed design teams, fostering creativity and innovation while implementing design best practices to deliver successful outcomes for various digital products.",
+          "title": "Software Engineer",
+          "description": [
+            "• Developed and maintained applications using functional programming principles in a Haskell-based language. \n• Migrated legacy projects to a new platform. \n• Handled support tickets, replying directly to the customer and resolving issues on live systems. \n• Implemented code best practices and wrote documentation."
+          ],
           "tags": ["REST APIs", "Haskell", "Functional Programming"]
         },
         "de": {
-          "title": "Designer Senior UI/UX",
-          "description": "Lideré proyectos de diseño, realicé investigaciones exhaustivas sobre usuarios y utilicé información basada en datos para mejorar las experiencias de usuario. Gestioné equipos de diseño, fomentando la creatividad y la innovación al tiempo que implementaba las mejores prácticas de diseño para obtener resultados exitosos en diversos productos digitales.",
+          "title": "Softwareentwickler",
+          "description": [
+            "• Entwickelte und wartete Anwendungen unter Verwendung von funktionalen Programmierprinzipien in einer Haskell-basierten Sprache. \n• Migrierte Legacy-Projekte auf eine neue Plattform. \n• Bearbeitete Support-Tickets, antwortete direkt an den Kunden und löste Probleme in Live-Systemen. \n• Implementierte Best Practices im Code und erstellte Dokumentationen."
+          ],
           "tags": ["REST APIs", "Haskell", "Functional Programming"]
         },
         "fr": {
-          "title": "Designer UI/UX Senior",
-          "description": "A piloté les initiatives UX en supervisant une équipe de concepteurs, en élaborant des stratégies de conception et en dirigeant des collaborations interfonctionnelles avec les responsables de produits, les ingénieurs et les cadres. Axé sur la création de designs centrés sur l'utilisateur alignés sur les objectifs commerciaux et aboutissant à une satisfaction accrue des utilisateurs.",
+          "title": "Développeur",
+          "description": [
+            "• Développé et maintenu des applications en utilisant des principes de programmation fonctionnelle dans un langage basé sur Haskell. \n• Migré des projets hérités vers une nouvelle plateforme. \n• Géré des tickets de support, en répondant directement aux clients et en résolvant des problèmes sur des systèmes en production. \n• Implémenté des bonnes pratiques de codage et rédigé de la documentation."
+          ],
           "tags": ["REST APIs", "Haskell", "Functional Programming"]
         }
       }
@@ -69,18 +81,24 @@
       "period": ["2019/08", "2022/05"],
       "locales": {
         "en": {
-          "title": "Lead UX Designer",
-          "description": "Drove UX initiatives by overseeing a team of designers, crafting design strategies, and spearheading cross-functional collaborations with product managers, engineers, and executives. Focused on creating user-centric designs that aligned with business objectives and resulted in enhanced user satisfaction.",
+          "title": "Full Stack Developer",
+          "description": [
+            "• Developed and delivered new solutions to respond to business requirements using C#, .NET, .NET Framework, ReactJS, and SQL Databases. \n• Gathered and translated client expectations into technical specifications. \n• Improved and refactored existing deployed solutions. \n• Experienced with Docker, REST APIs, test-driven development, and Agile/Scrum methodologies."
+          ],
           "tags": ["C#", ".NET", "SQL", "ReactJs", "Azure", "JavaScript"]
         },
         "de": {
-          "title": "Designer UX Principal",
-          "description": "Impulsé iniciativas de UX supervisando un equipo de diseñadores, elaborando estrategias de diseño y liderando colaboraciones multifuncionales con gerentes de producto, ingenieros y ejecutivos. Centrado en crear diseños centrados en el usuario que se alinearan con los objetivos comerciales y que dieron como resultado una mayor satisfacción del usuario.",
+          "title": "Full Stack Entwickler",
+          "description": [
+            "• Entwickelte und lieferte neue Lösungen zur Erfüllung geschäftlicher Anforderungen unter Verwendung von C#, .NET, .NET Framework, ReactJS und SQL-Datenbanken. \n• Erfasste und übersetzte Kundenerwartungen in technische Spezifikationen. \n• Verbesserte und refaktorierte bestehende bereitgestellte Lösungen. \n• Erfahren in Docker, REST-APIs, testgetriebener Entwicklung und Agile/Scrum-Methoden."
+          ],
           "tags": ["C#", ".NET", "SQL", "ReactJs", "Azure", "JavaScript"]
         },
         "fr": {
-          "title": "Designer UX Principal",
-          "description": "A piloté les initiatives UX en supervisant une équipe de concepteurs, en élaborant des stratégies de conception et en dirigeant des collaborations interfonctionnelles avec les responsables de produits, les ingénieurs et les cadres. Axé sur la création de designs centrés sur l'utilisateur alignés sur les objectifs commerciaux et aboutissant à une satisfaction accrue des utilisateurs.",
+          "title": "Développeur Full Stack",
+          "description": [
+            "• Développé et livré de nouvelles solutions pour répondre aux exigences métier en utilisant C#, .NET, .NET Framework, ReactJS et des bases de données SQL. \n• Recueilli et traduit les attentes des clients en spécifications techniques. \n• Amélioré et refactorisé des solutions déjà déployées. \n• Expérience avec Docker, les API REST, le développement piloté par les tests et les méthodologies Agile/Scrum."
+          ],
           "tags": ["C#", ".NET", "SQL", "ReactJs", "Azure", "JavaScript"]
         }
       }
@@ -92,31 +110,39 @@
       "period": ["2019/03", "2022/05"],
       "locales": {
         "en": {
-          "title": "UX Design Full-Time Professor",
-          "description": "Leveraged my expertise in UX design to educate and inspire students in the art of user-centered design principles. Conducted user studies, analyzed data, and guided students in applying theoretical knowledge to practical projects, empowering the next generation of UX designers.",
+          "title": "Software Engineer",
+          "description": [
+            "• Developed and delivered an application to register and control all the clients, documents, bank statements, and data related to leads, using C# .NET Framework 4.8.1 Windows Forms Application. \n• Database deployed in Azure SQL."
+          ],
           "tags": ["C#", ".NET", ".NET Framework", "SQL", "WinForms", "Azure"]
         },
         "de": {
-          "title": "Profesor de Tiempo Completo en UX Design",
-          "description": "Utilicé mi experiencia en diseño UX para educar e inspirar a los estudiantes en el arte de los principios de diseño centrado en el usuario. Realicé estudios de usuarios, analicé datos y orienté a los estudiantes en la aplicación de conocimientos teóricos a proyectos prácticos, empoderando a la próxima generación de diseñadores UX.",
+          "title": "Softwareentwickler",
+          "description": [
+            "• Entwickelte und lieferte eine Anwendung zur Registrierung und Verwaltung aller Kunden, Dokumente, Kontoauszüge und datenbezogenen Leads mit C# .NET Framework 4.8.1 Windows Forms-Anwendung. \n• Datenbank in Azure SQL bereitgestellt."
+          ],
           "tags": ["C#", ".NET", ".NET Framework", "SQL", "WinForms", "Azure"]
         },
         "fr": {
-          "title": "Professeur à temps plein en UX Design",
-          "description": "J'ai mis à profit mon expertise en conception UX pour éduquer et inspirer les étudiants dans l'art des principes de conception centrés sur l'utilisateur. J'ai réalisé des études utilisateur, analysé des données et guidé les étudiants dans l'application des connaissances théoriques à des projets pratiques, donnant ainsi les moyens à la prochaine génération de concepteurs UX.",
+          "title": "Développeur",
+          "description": [
+            "• Développé et livré une application pour enregistrer et contrôler tous les clients, documents, relevés bancaires et données liées aux prospects, en utilisant une application Windows Forms C# .NET Framework 4.8.1. \n• Base de données déployée dans Azure SQL."
+          ],
           "tags": ["C#", ".NET", ".NET Framework", "SQL", "WinForms", "Azure"]
         }
       }
     },
 
     {
-      "id": "experience_item_4",
+      "id": "experience_item_5",
       "place": "@link{places.logifarma}",
       "period": ["2018/08", "2019/07"],
       "locales": {
         "en": {
-          "title": "UX Design Full-Time Professor",
-          "description": "Leveraged my expertise in UX design to educate and inspire students in the art of user-centered design principles. Conducted user studies, analyzed data, and guided students in applying theoretical knowledge to practical projects, empowering the next generation of UX designers.",
+          "title": "Full Stack Developer",
+          "description": [
+            "• Implemented CI/CD pipelines using Atlassian Jira, Bamboo, and PowerShell. \n• Developed and maintained applications using C#, .NET Framework, VB.NET, ASP.NET MVC, and SQL Databases. \n• Implemented Microsoft Azure Application Insights in Web and Desktop Applications. \n• Conducted functional and technical analysis."
+          ],
           "tags": [
             "C#",
             ".NET Framework",
@@ -127,8 +153,10 @@
           ]
         },
         "de": {
-          "title": "Profesor de Tiempo Completo en UX Design",
-          "description": "Utilicé mi experiencia en diseño UX para educar e inspirar a los estudiantes en el arte de los principios de diseño centrado en el usuario. Realicé estudios de usuarios, analicé datos y orienté a los estudiantes en la aplicación de conocimientos teóricos a proyectos prácticos, empoderando a la próxima generación de diseñadores UX.",
+          "title": "Full Stack Entwickler",
+          "description": [
+            "• Implementierte CI/CD-Pipelines mit Atlassian Jira, Bamboo und PowerShell. \n• Entwickelte und wartete Anwendungen mit C#, .NET Framework, VB.NET, ASP.NET MVC und SQL-Datenbanken. \n• Implementierte Microsoft Azure Application Insights in Web- und Desktop-Anwendungen. \n• Führte funktionale und technische Analysen durch."
+          ],
           "tags": [
             "C#",
             ".NET Framework",
@@ -139,8 +167,10 @@
           ]
         },
         "fr": {
-          "title": "Professeur à temps plein en UX Design",
-          "description": "J'ai mis à profit mon expertise en conception UX pour éduquer et inspirer les étudiants dans l'art des principes de conception centrés sur l'utilisateur. J'ai réalisé des études utilisateur, analysé des données et guidé les étudiants dans l'application des connaissances théoriques à des projets pratiques, donnant ainsi les moyens à la prochaine génération de concepteurs UX.",
+          "title": "Développeur Full Stack",
+          "description": [
+            "• Implémenté des pipelines CI/CD en utilisant Atlassian Jira, Bamboo et PowerShell. \n• Développé et maintenu des applications avec C#, .NET Framework, VB.NET, ASP.NET MVC et des bases de données SQL. \n• Implémenté Microsoft Azure Application Insights dans des applications Web et Desktop. \n• Réalisé des analyses fonctionnelles et techniques."
+          ],
           "tags": [
             "C#",
             ".NET Framework",
@@ -154,46 +184,58 @@
     },
 
     {
-      "id": "experience_item_4",
+      "id": "experience_item_6",
       "place": "@link{places.grupobel}",
       "period": ["2017/08", "2018/07"],
       "locales": {
         "en": {
-          "title": "UX Design Full-Time Professor",
-          "description": "Leveraged my expertise in UX design to educate and inspire students in the art of user-centered design principles. Conducted user studies, analyzed data, and guided students in applying theoretical knowledge to practical projects, empowering the next generation of UX designers.",
+          "title": "System Engineer",
+          "description": [
+            "• Developed websites for Grupo BEL and its internal companies using WordPress, HTML5, CSS3, and Bootstrap."
+          ],
           "tags": ["HTML5", "CSS3", "WordPress", "Bootstrap"]
         },
         "de": {
-          "title": "Profesor de Tiempo Completo en UX Design",
-          "description": "Utilicé mi experiencia en diseño UX para educar e inspirar a los estudiantes en el arte de los principios de diseño centrado en el usuario. Realicé estudios de usuarios, analicé datos y orienté a los estudiantes en la aplicación de conocimientos teóricos a proyectos prácticos, empoderando a la próxima generación de diseñadores UX.",
+          "title": "Systemingenieur",
+          "description": [
+            "• Entwickelte Websites für Grupo BEL und deren interne Unternehmen mit WordPress, HTML5, CSS3 und Bootstrap."
+          ],
           "tags": ["HTML5", "CSS3", "WordPress", "Bootstrap"]
         },
         "fr": {
-          "title": "Professeur à temps plein en UX Design",
-          "description": "J'ai mis à profit mon expertise en conception UX pour éduquer et inspirer les étudiants dans l'art des principes de conception centrés sur l'utilisateur. J'ai réalisé des études utilisateur, analysé des données et guidé les étudiants dans l'application des connaissances théoriques à des projets pratiques, donnant ainsi les moyens à la prochaine génération de concepteurs UX.",
+          "title": "Ingénieur Système",
+          "description": [
+            "• Développé des sites Web pour Grupo BEL et ses entreprises internes en utilisant WordPress, HTML5, CSS3 et Bootstrap."
+          ],
           "tags": ["HTML5", "CSS3", "WordPress", "Bootstrap"]
         }
       }
     },
 
     {
-      "id": "experience_item_4",
+      "id": "experience_item_7",
       "place": "@link{places.tecmic}",
       "period": ["2015/12", "2017/07"],
       "locales": {
         "en": {
-          "title": "UX Design Full-Time Professor",
-          "description": "Leveraged my expertise in UX design to educate and inspire students in the art of user-centered design principles. Conducted user studies, analyzed data, and guided students in applying theoretical knowledge to practical projects, empowering the next generation of UX designers.",
+          "title": "Service Technician",
+          "description": [
+            "• Provided technical support to end-users, including troubleshooting hardware and software issues. \n• Assisted with system administration tasks and IT equipment maintenance."
+          ],
           "tags": ["Windows Server", "Hardware", "Helpdesk"]
         },
         "de": {
-          "title": "Profesor de Tiempo Completo en UX Design",
-          "description": "Utilicé mi experiencia en diseño UX para educar e inspirar a los estudiantes en el arte de los principios de diseño centrado en el usuario. Realicé estudios de usuarios, analicé datos y orienté a los estudiantes en la aplicación de conocimientos teóricos a proyectos prácticos, empoderando a la próxima generación de diseñadores UX.",
+          "title": "Servicetechniker",
+          "description": [
+            "• Technischen Support für Endbenutzer bereitgestellt, einschließlich Fehlerbehebung bei Hardware- und Softwareproblemen. \n• Unterstützung bei Systemadministrationsaufgaben und Wartung von IT-Geräten."
+          ],
           "tags": ["Windows Server", "Hardware", "Helpdesk"]
         },
         "fr": {
-          "title": "Professeur à temps plein en UX Design",
-          "description": "J'ai mis à profit mon expertise en conception UX pour éduquer et inspirer les étudiants dans l'art des principes de conception centrés sur l'utilisateur. J'ai réalisé des études utilisateur, analysé des données et guidé les étudiants dans l'application des connaissances théoriques à des projets pratiques, donnant ainsi les moyens à la prochaine génération de concepteurs UX.",
+          "title": "Technicien de Service",
+          "description": [
+            "• Fourniture de support technique aux utilisateurs finaux, y compris le dépannage des problèmes matériels et logiciels. \n• Assistance pour les tâches d'administration système et la maintenance des équipements informatiques."
+          ],
           "tags": ["Windows Server", "Hardware", "Helpdesk"]
         }
       }

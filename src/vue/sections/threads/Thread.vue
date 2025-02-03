@@ -5,7 +5,7 @@
         <li v-for="item in orderedItems" class="thread-item">
             <!-- Circle -->
             <span class="fa fa-stack thread-icon">
-                <i class="fa fa-circle fa-stack-1x"/>
+                <i class="fa fa-circle fa-stack-1x" />
             </span>
 
             <!-- Content -->
@@ -14,15 +14,16 @@
                 <h6 class="thread-item-title text-5 fw-bold pt-1 mb-1"> {{ item['locales']['title'] }}</h6>
 
                 <!-- Tags -->
-                <Tags :items="_getTagsForItem(item)" class="mt-1 mb-2 mt-lg-2"/>
+                <Tags :items="_getTagsForItem(item)" class="mt-1 mb-2 mt-lg-2" />
 
                 <!-- Description -->
-                <p v-html="item['locales']['description']" class="thread-item-description text-3 text-normal mb-1 mb-md-2"/>
+                <p v-html="item['locales']['description']"
+                    class="thread-item-description text-3 text-normal mb-1 mb-md-2" />
 
                 <!-- Link -->
                 <a v-if="item['href']" class="text-2" target="_blank" :href="item['href']">
                     <span>{{ props.linkLabel }}</span>
-                    <i class="fa-solid fa-arrow-up-right-dots ms-1"/>
+                    <i class="fa-solid fa-arrow-up-right-dots ms-1" />
                 </a>
             </div>
         </li>
@@ -38,9 +39,9 @@
 </template>
 
 <script setup>
-import {computed} from "vue"
-import {useUtils} from "../../../composables/utils.js"
-import {useLanguage} from "../../../composables/language.js"
+import { computed } from "vue"
+import { useUtils } from "../../../composables/utils.js"
+import { useLanguage } from "../../../composables/language.js"
 import Tags from "../../widgets/Tags.vue"
 
 /**
@@ -59,7 +60,7 @@ const utils = useUtils()
  * @type {ComputedRef<Array>}
  */
 const orderedItems = computed(() => {
-    return utils.reverseArray(props.items)
+    return props.items
 })
 
 /**
@@ -87,10 +88,16 @@ const _getTagsForItem = (item) => {
 @import "/src/scss/_theming.scss";
 
 ul.thread {
-    --scale:1;
-    --line-width:calc(var(--scale)*4px);
-    @include media-breakpoint-down(md) {--scale:0.9;}
-    @include media-breakpoint-down(sm) {--scale:0.8;}
+    --scale: 1;
+    --line-width: calc(var(--scale)*4px);
+
+    @include media-breakpoint-down(md) {
+        --scale: 0.9;
+    }
+
+    @include media-breakpoint-down(sm) {
+        --scale: 0.8;
+    }
 
     position: relative;
     padding: 0;

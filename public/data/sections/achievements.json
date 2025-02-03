@@ -2,45 +2,33 @@
   "locales": {
     "en": {
       "title": "Career <span class='text-primary'>Achievements</span>",
-      "description": "My journey as a UX designer has been marked by unwavering dedication to learning and skill enhancement, along with enthusiastic participation in design events. As a result, I have collected a list of notable awards and certifications:"
+      "description": "My journey as a Developer was marked by achievements that brought me experience and excitement for what I do. My plan is to make this list bigger!"
     },
-
     "de": {
-      "title": "Logros <span class='text-primary'>Profesionales</span>",
-      "description": "Mi trayectoria como diseñador de UX ha estado marcada por una dedicación inquebrantable al aprendizaje y mejora de habilidades, junto con una participación entusiasta en eventos de diseño. Como resultado, he recopilado una lista de premios y certificaciones notables:"
+      "title": "Karriere-<span class='text-primary'>Erfolge</span>",
+      "description": "Meine Reise als Entwickler war von Erfolgen geprägt, die mir Erfahrung und Begeisterung für das, was ich tue, gebracht haben. Mein Plan ist, diese Liste zu erweitern!"
     },
-
     "fr": {
       "title": "Réalisations <span class='text-primary'>Professionnelles</span>",
-      "description": "Mon parcours en tant que concepteur UX a été marqué par une dédication inébranlable à l'apprentissage et à l'amélioration des compétences, ainsi que par une participation enthousiaste à des événements de conception. En conséquence, j'ai dressé une liste de récompenses et de certifications remarquables:"
+      "description": "Mon parcours de développeur a été marqué par des réalisations qui m'ont apporté de l'expérience et de l'enthousiasme pour ce que je fais. Mon objectif est d'allonger cette liste !"
     }
   },
 
   "subcategories": [
     {
-      "id": "awards",
-      "faIcon": "fa-solid fa-trophy",
-      "locales": {
-        "en": { "title": "Awards", "buttonLabel": "More Info" },
-        "de": { "title": "Premios", "buttonLabel": "Más Información" },
-        "fr": { "title": "Prix", "buttonLabel": "Plus d'Infos" }
-      }
-    },
-
-    {
       "id": "certifications",
       "faIcon": "fa-solid fa-award",
       "locales": {
         "en": {
-          "title": "Certifications",
-          "buttonLabel": "View Certification"
+          "title": "Accomplishments",
+          "buttonLabel": ""
         },
         "de": {
-          "title": "Certificaciones",
-          "buttonLabel": "Ver Certificación"
+          "title": "Erfolgen",
+          "buttonLabel": ""
         },
         "fr": {
-          "title": "Certifications",
+          "title": "Réalisations",
           "buttonLabel": "Voir la Certification"
         }
       }
@@ -48,166 +36,64 @@
   ],
 
   "items": {
-    "awards": [
-      {
-        "id": "graduation_project",
-        "place": "@link{places.crediresolve}",
-        "date": "2018/08",
-        "href": null,
-        "locales": {
-          "en": {
-            "title": "Best Graduation Project",
-            "description": "Outstanding work on graduation project; recognized for innovation and impact."
-          },
-
-          "de": {
-            "title": "Mejor Proyecto de Graduación",
-            "description": "Trabajo destacado en proyecto de graduación; reconocido por innovación e impacto."
-          },
-
-          "fr": {
-            "title": "Meilleur Projet de Fin d'Études",
-            "description": "Travail exceptionnel sur le projet de fin d'études; reconnu pour l'innovation et l'impact."
-          }
-        }
-      },
-
-      {
-        "id": "alumni_hackaton",
-        "place": "@link{places.crediresolve}",
-        "date": "2019/09",
-        "href": "https://harvard.com",
-        "locales": {
-          "en": {
-            "title": "2nd Place – Alumni UX Hackathon",
-            "description": "Secured 2nd place in Harvard's Alumni UX hackathon; demonstrated creative problem-solving."
-          },
-
-          "de": {
-            "title": "2do Lugar - Hackathon Alumni de UX",
-            "description": "Obtuvo el 2do lugar en el Hackathon Alumni de UX de Harvard; demostró solución creativa de problemas."
-          },
-
-          "fr": {
-            "title": "2e Place - Hackathon UX des Anciens",
-            "description": "Obtenu la 2e place au hackathon UX des anciens de Harvard; démontré la résolution créative de problèmes."
-          }
-        }
-      },
-
-      {
-        "id": "adobe_jam",
-        "place": "@link{places.novabase}",
-        "date": "2020/11",
-        "href": null,
-        "locales": {
-          "en": {
-            "title": "1st Place – Adobe Creative Jam",
-            "description": "Achieved 1st place in Adobe Creative Jam; showcased design excellence and collaboration."
-          },
-
-          "de": {
-            "title": "1er Lugar - Adobe Creative Jam",
-            "description": "Obtuvo el 1er lugar en Adobe Creative Jam; mostró excelencia en diseño y colaboración."
-          },
-
-          "fr": {
-            "title": "1ère Place - Adobe Creative Jam",
-            "description": "Obtenu la 1ère place à Adobe Creative Jam; mis en avant l'excellence en design et la collaboration."
-          }
-        }
-      },
-
-      {
-        "id": "article_mention",
-        "place": "@link{places.novabase}",
-        "date": "2023/03",
-        "href": "https://forbes.com",
-        "locales": {
-          "en": {
-            "title": "Article Mention – UX Contribution",
-            "description": "Featured in Forbes for outstanding UX contributions; impactful designs and insights."
-          },
-
-          "de": {
-            "title": "Mención en Artículo - Contribución a UX",
-            "description": "Destacado en Forbes por sobresalientes contribuciones a UX; diseños e ideas impactantes."
-          },
-
-          "fr": {
-            "title": "Mention d'Article - Contribution UX",
-            "description": "Mis en avant dans Forbes pour d'excellentes contributions UX ; designs et idées impactantes."
-          }
-        }
-      }
-    ],
-
     "certifications": [
       {
-        "id": "google_cert",
-        "place": "@link{places.acodis}",
-        "date": "2018/08",
-        "href": "https://google.com",
+        "id": "brand_registered",
+        "place": "@link{places.novabase}",
+        "date": "2020/08",
+        "href": null,
         "locales": {
           "en": {
-            "title": "Google UX Design Certification",
-            "description": "Certified by Google in UX design; demonstrated expertise in user-centered design."
+            "title": "Registered the brand RandomBit®",
+            "description": "After all the relationships stablished with small companies, the brand was Registered."
           },
-
           "de": {
-            "title": "Certificación de Diseño UX de Google",
-            "description": "Certificado por Google en diseño UX; demostró experiencia en diseño centrado en el usuario."
+            "title": "Marke RandomBit® registriert",
+            "description": "Nachdem alle Beziehungen zu kleinen Unternehmen aufgebaut waren, wurde die Marke registriert."
           },
-
           "fr": {
-            "title": "Certification Google UX Design",
-            "description": "Certifié par Google en conception UX ; a démontré une expertise en design centré sur l'utilisateur."
+            "title": "Marque RandomBit® déposée",
+            "description": "Après toutes les relations établies avec les petites entreprises, la marque a été déposée."
           }
         }
       },
-
       {
-        "id": "ui_nanodegree",
-        "place": "@link{places.grupobel}",
+        "id": "sold_application",
+        "place": "@link{places.crediresolve}",
         "date": "2019/04",
-        "href": "https://udemy.com",
+        "href": null,
         "locales": {
           "en": {
-            "title": "UI/UX Nanodegree",
-            "description": "Completed comprehensive UI/UX nanodegree on Udemy; acquired practical skills."
+            "title": "Application - Sold",
+            "description": "Sold my first application to a SME."
           },
-
           "de": {
-            "title": "Nanogrado en UI/UX",
-            "description": "Completó el nanogrado completo en UI/UX en Udemy; adquirió habilidades prácticas."
+            "title": "Anwendung - Verkauft",
+            "description": "Meine erste Anwendung an ein KMU verkauft."
           },
-
           "fr": {
-            "title": "Nanodiplôme UI/UX",
-            "description": "A suivi le nanodiplôme complet en UI/UX sur Udemy ; a acquis des compétences pratiques."
+            "title": "Application - Vendue",
+            "description": "Vendu ma première application à une PME."
           }
         }
       },
-
       {
-        "id": "material_cert",
+        "id": "websummit_lisbon",
         "place": "@link{places.grupobel}",
-        "date": "2020/06",
-        "href": "https://google.com",
+        "date": "2017/11",
+        "href": null,
         "locales": {
           "en": {
-            "title": "Material Design Certification",
-            "description": "Earned Material Design certification; demonstrated proficiency in modern design principles."
+            "title": "Web Summit - ALPHA Startup",
+            "description": "Participated in the Web Summit 2017 representing the startup Vend2You."
           },
-
           "de": {
-            "title": "Certificación de Material Design",
-            "description": "Obtuvo certificación de Material Design; demostró competencia en principios de diseño moderno."
+            "title": "Web Summit - ALPHA Startup",
+            "description": "Teilnahme am Web Summit 2017 als Vertreter des Startups Vend2You."
           },
-
           "fr": {
-            "title": "Certification Material Design",
-            "description": "A obtenu la certification Material Design ; a démontré sa maîtrise des principes de design modernes."
+            "title": "Web Summit - ALPHA Startup",
+            "description": "Participation au Web Summit 2017 en représentant la startup Vend2You."
           }
         }
       }

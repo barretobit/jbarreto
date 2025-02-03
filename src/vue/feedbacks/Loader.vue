@@ -49,10 +49,11 @@ const percentage = ref(0)
 /** UI Refs **/
 const uiLogo = ref(null)
 
+/** Change the Loading speed here **/
 const run = () => {
     stop()
     currentStep.value = Steps.LOADING_LOGO
-    intervalId.value = setInterval(() => { _onIntervalTick() }, INTERVAL_TIMEOUT * 1000)
+    intervalId.value = setInterval(() => { _onIntervalTick() }, INTERVAL_TIMEOUT * 50)
 }
 
 const stop = () => {
