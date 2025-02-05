@@ -90,7 +90,7 @@ const _getItemLabel = (item) => {
     border-radius: 30%;
 
     color: $white;
-    background-color: darken($primary, 10%);
+    background-color: darken($primary, 0%);
 }
 
 .contact-item-content {
