@@ -62,9 +62,9 @@
       "progress": null,
       "faIcon": "fa fa-marker",
       "locales": {
-        "en": { "title": "Bonus Skills" },
-        "de": { "title": "Zusatzfähigkeiten" },
-        "fr": { "title": "Plus Habiletés" }
+        "en": { "title": "Bonus" },
+        "de": { "title": "Bonus" },
+        "fr": { "title": "Plus" }
       }
     }
   ],
@@ -73,100 +73,100 @@
     "abilities": [
       {
         "imageIconUrl": null,
-        "faIcon": "fas fa-mobile-alt",
+        "faIcon": "fas fa-network-wired",
         "value": null,
         "locales": {
           "en": {
             "title": "APIs",
-            "description": "Proficient in crafting adaptable layouts for diverse devices, ensuring optimal user experience."
+            "description": "Strong knowledge of API structuring, including documentation, architecture, security, and API design best practices."
           },
           "de": {
             "title": "APIs",
-            "description": "Destacada habilidad en crear diseños adaptables para diversos dispositivos, garantizando una experiencia de usuario óptima ."
+            "description": "Fundiertes Wissen über API-Strukturierung, einschließlich Dokumentation, Architektur, Sicherheit und Best Practices für API-Design."
           },
           "fr": {
             "title": "APIs",
-            "description": "Compétent pour créer des mises en page adaptables pour divers appareils, assurant une expérience utilisateur optimale."
+            "description": "Solide connaissance de la structuration des API, y compris la documentation, l'architecture, la sécurité et les meilleures pratiques de conception d'API."
           }
         }
       },
 
       {
         "imageIconUrl": null,
-        "faIcon": "fas fa-paint-roller",
+        "faIcon": "fas fa-file-circle-exclamation",
         "value": null,
         "locales": {
           "en": {
-            "title": "Design Principles",
-            "description": "Masterful at creating captivating designs, blending color theory, typography, layout, and balance for effective messaging."
+            "title": "Tech Requirements",
+            "description": "Translating business needs into precise technical specifications for development."
           },
           "de": {
-            "title": "Principios de Diseño",
-            "description": "Experto en diseño: fusiono teoría del color, tipografía, layout y equilibrio para cautivar y transmitir mensajes."
+            "title": "Technische Anforderungen",
+            "description": "Übersetzung von Geschäftsanforderungen in präzise technische Spezifikationen für die Entwicklung."
           },
           "fr": {
-            "title": "Principes de Conception",
-            "description": "Habile en design: utilise principes couleur, typo, composition et équilibre pour captiver et transmettre efficacement."
+            "title": "Exigences techniques",
+            "description": "Traduction des besoins métier en spécifications techniques précises pour le développement."
           }
         }
       },
 
       {
         "imageIconUrl": null,
-        "faIcon": "fas fa-vector-square",
+        "faIcon": "fas fa-microscope",
         "value": null,
         "locales": {
           "en": {
-            "title": "Wireframing",
-            "description": "Skilled in creating detailed wireframes to visualize and plan user interfaces, effectively laying the foundation for intuitive design."
+            "title": "Testing & Quality Assurance",
+            "description": "Ensuring the reliability and performance of software through rigorous testing and adherence to quality standards."
           },
           "de": {
-            "title": "Creación de Wireframes",
-            "description": "Habilidad para crear wireframes detallados para visualizar y planificar interfaces de usuario."
+            "title": "Testen und Qualitätssicherung",
+            "description": "Sicherstellung der Zuverlässigkeit und Leistung von Software durch rigorose Tests und Einhaltung von Qualitätsstandards."
           },
           "fr": {
-            "title": "Création de Wireframes",
-            "description": "Compétent dans la création de wireframes détaillés pour visualiser et planifier les interfaces utilisateur."
+            "title": "Tests et assurance qualité",
+            "description": "Garantir la fiabilité et les performances des logiciels grâce à des tests rigoureux et au respect des normes de qualité."
           }
         }
       },
 
       {
         "imageIconUrl": null,
-        "faIcon": "fas fa-check-double",
+        "faIcon": "fas fa-bug-slash",
         "value": null,
         "locales": {
           "en": {
-            "title": "Usability Testing",
-            "description": "Enhancing user experiences through comprehensive usability testing."
+            "title": "Code Best Practices",
+            "description": "My developer journey has always included the search for and implementation of code best practices."
           },
           "de": {
-            "title": "Pruebas de Usabilidad",
-            "description": "Experiencia en mejorar experiencias de usuario mediante pruebas exhaustivas de usabilidad."
+            "title": "Best Practices für Code",
+            "description": "Meine Entwicklerreise beinhaltete immer die Suche und Implementierung von Best Practices für Code."
           },
           "fr": {
-            "title": "Tests d'Utilisabilité",
-            "description": "Expérimenté dans l'amélioration des expériences utilisateur grâce à des tests d'utilisabilité."
+            "title": "Meilleures pratiques de code",
+            "description": "Mon parcours de développeur a toujours inclus la recherche et la mise en œuvre des meilleures pratiques de code."
           }
         }
       },
 
       {
         "imageIconUrl": null,
-        "faIcon": "fas fa-expand-arrows-alt",
+        "faIcon": "fas fa-hard-drive",
         "value": null,
         "locales": {
           "en": {
-            "title": "Interaction Design",
-            "description": "Proficient in creating intuitive and seamless interactions for user-friendly experiences, harmonizing aesthetics and usability."
+            "title": "Hardware Integration",
+            "description": "Seamlessly connecting software with hardware components to create integrated and functional systems."
           },
           "de": {
-            "title": "Diseño de Interacción",
-            "description": "Competente en la creación de interacciones intuitivas y fluidas para experiencias amigables para el usuario."
+            "title": "Hardware-Integration",
+            "description": "Nahtlose Verbindung von Software mit Hardwarekomponenten zur Schaffung integrierter und funktionaler Systeme."
           },
           "fr": {
-            "title": "Design d'Interaction",
-            "description": "Compétent dans la création d'interactions intuitives et fluides pour des expériences conviviales."
+            "title": "Intégration matérielle",
+            "description": "Connexion transparente des logiciels aux composants matériels pour créer des systèmes intégrés et fonctionnels."
           }
         }
       },
@@ -178,15 +178,15 @@
         "locales": {
           "en": {
             "title": "Prototyping",
-            "description": "Skilled in translating concepts into interactive prototypes for testing and refinement."
+            "description": "Bringing creativity to software development by exploring new ideas and concepts."
           },
           "de": {
-            "title": "Prototipado",
-            "description": "Habilidad para traducir conceptos en prototipos interactivos para pruebas y perfeccionamiento."
+            "title": "Prototyping",
+            "description": "Kreativität in die Softwareentwicklung einbringen, indem neue Ideen und Konzepte erforscht werden."
           },
           "fr": {
             "title": "Prototypage",
-            "description": "Compétent dans la traduction de concepts en prototypes interactifs pour des tests et affinages."
+            "description": "Apporter de la créativité au développement de logiciels en explorant de nouvelles idées et de nouveaux concepts."
           }
         }
       }
@@ -374,115 +374,115 @@
     "extra": [
       {
         "imageIconUrl": null,
-        "faIcon": null,
+        "faIcon": "fas fa-comments",
         "value": null,
         "locales": {
           "en": {
-            "title": "User Interface (UI) Design",
-            "description": "Able to design intuitive and visually appealing user interfaces for seamless user interactions."
+            "title": "Communication Skills",
+            "description": "Effectively conveying information, actively listening to others, and fostering clear and open dialogue within a team or organization."
           },
           "de": {
-            "title": "Diseño de Interfaz de Usuario (UI)",
-            "description": "Capaz de diseñar interfaces de usuario intuitivas y visualmente atractivas para interacciones de usuario fluidas."
+            "title": "Kommunikationsfähigkeit",
+            "description": "Informationen effektiv vermitteln, aktiv zuhören und einen klaren und offenen Dialog innerhalb eines Teams oder einer Organisation fördern."
           },
           "fr": {
-            "title": "Design d'Interface Utilisateur (UI)",
-            "description": "Capable de concevoir des interfaces utilisateur intuitives et visuellement attrayantes pour des interactions utilisateur fluides."
+            "title": "Compétences en communication",
+            "description": "Transmettre efficacement des informations, écouter activement les autres et favoriser un dialogue clair et ouvert au sein d'une équipe ou d'une organisation."
           }
         }
       },
       {
         "imageIconUrl": null,
-        "faIcon": null,
+        "faIcon": "fas fa-people-group",
         "value": null,
         "locales": {
           "en": {
-            "title": "Front-End Development",
-            "description": "Able to code in VueJS, React JS, Swift, AngularJS and TypeScript."
+            "title": "Team Spirit",
+            "description": "Collaborating effectively with colleagues, contributing positively to a group dynamic, and working together towards shared goals and objectives."
           },
           "de": {
-            "title": "Desarrollo Front-End",
-            "description": "Capaz de codificar en VueJS, AngularJS y TypeScript."
+            "title": "Teamgeist",
+            "description": "Effektiv mit Kollegen zusammenarbeiten, positiv zur Gruppendynamik beitragen und gemeinsam auf gemeinsame Ziele und Vorgaben hinarbeiten."
           },
           "fr": {
-            "title": "Développement Front-End",
-            "description": "Capable de coder en VueJS, AngularJS et TypeScript."
+            "title": "Esprit d'équipe",
+            "description": "Collaborer efficacement avec ses collègues, contribuer positivement à la dynamique d'un groupe et travailler ensemble à la réalisation d'objectifs communs."
           }
         }
       },
       {
         "imageIconUrl": null,
-        "faIcon": null,
+        "faIcon": "fas fa-book",
         "value": null,
         "locales": {
           "en": {
-            "title": "Information Visualization",
-            "description": "Able to transform complex data into clear visuals."
+            "title": "Eager to Learn",
+            "description": "Demonstrating a proactive approach to acquiring new knowledge, embracing opportunities for professional development, and continuously seeking to improve skills and expertise."
           },
           "de": {
-            "title": "Visualización de Información",
-            "description": "Capaz de transformar datos complejos en visuales claros."
+            "title": "Lernbereitschaft",
+            "description": "Eine proaktive Haltung zum Erwerb neuen Wissens zeigen, Möglichkeiten zur beruflichen Weiterentwicklung nutzen und kontinuierlich versuchen, Fähigkeiten und Fachwissen zu verbessern."
           },
           "fr": {
-            "title": "Visualisation de l'Information",
-            "description": "Capable de transformer des données complexes en visuels clairs."
+            "title": "Désir d'apprendre",
+            "description": "Démontrer une approche proactive de l'acquisition de nouvelles connaissances, saisir les opportunités de développement professionnel et chercher continuellement à améliorer ses compétences et son expertise."
           }
         }
       },
       {
         "imageIconUrl": null,
-        "faIcon": null,
+        "faIcon": "fas fa-wrench",
         "value": null,
         "locales": {
           "en": {
-            "title": "Accessibility and Inclusive Design",
-            "description": "Able to create digital experiences that are accessible to all."
+            "title": "Adaptability",
+            "description": "Able to adjust to changing circumstances, new technologies, and evolving work environments."
           },
           "de": {
-            "title": "Accesibilidad y Diseño Inclusivo",
-            "description": "Capaz de crear experiencias digitales accesibles para todos."
+            "title": "Anpassungsfähigkeit",
+            "description": "Sich an veränderte Umstände, neue Technologien und sich entwickelnde Arbeitsumgebungen anpassen können."
           },
           "fr": {
-            "title": "Accessibilité et Design Inclusif",
-            "description": "Capable de créer des expériences numériques accessibles à tous."
+            "title": "Adaptabilité",
+            "description": "Être capable de s'adapter aux circonstances changeantes, aux nouvelles technologies et à l'évolution des environnements de travail."
           }
         }
       },
       {
         "imageIconUrl": null,
-        "faIcon": null,
+        "faIcon": "fas fa-triangle-exclamation",
         "value": null,
         "locales": {
           "en": {
-            "title": "User-Centric Data Analysis",
-            "description": "Proficient in analyzing data with a focus on the needs and preferences of users, enabling data-driven decisions that align with user expectations."
+            "title": "Problem-solving",
+            "description": "Identifying and analyzing challenges, developing creative solutions, and implementing effective strategies to overcome obstacles and achieve desired outcomes."
           },
           "de": {
-            "title": "Análisis de Datos Centrado en el Usuario",
-            "description": "Competente en analizar datos con un enfoque en las necesidades y preferencias de los usuarios, lo que permite tomar decisiones basadas en datos que se alinean con las expectativas de los usuarios."
+            "title": "Problemlösungsfähigkeit",
+            "description": "Herausforderungen identifizieren und analysieren, kreative Lösungen entwickeln und effektive Strategien implementieren, um Hindernisse zu überwinden und die gewünschten Ergebnisse zu erzielen."
           },
           "fr": {
-            "title": "Analyse de Données Axée sur l'Utilisateur",
-            "description": "Compétent dans l'analyse de données axée sur les besoins et préférences des utilisateurs, permettant des décisions basées sur les données qui sont en accord avec les attentes des utilisateurs."
+            "title": "Résolution de problèmes",
+            "description": "Identifier et analyser les défis, développer des solutions créatives et mettre en œuvre des stratégies efficaces pour surmonter les obstacles et atteindre les résultats souhaités."
           }
         }
       },
       {
         "imageIconUrl": null,
-        "faIcon": null,
+        "faIcon": "fas fa-stopwatch",
         "value": null,
         "locales": {
           "en": {
-            "title": "Mobile App User Experience",
-            "description": "Skilled in crafting user-centered experiences within mobile applications, ensuring smooth and intuitive interactions."
+            "title": "Time management",
+            "description": "Organizing and prioritizing tasks efficiently, setting realistic deadlines, and utilizing resources effectively to maximize productivity and achieve timely completion of work."
           },
           "de": {
-            "title": "Experiencia de Usuario en Aplicaciones Móviles",
-            "description": "Experto en crear experiencias centradas en el usuario en aplicaciones móviles, garantizando interacciones fluidas e intuitivas."
+            "title": "Zeitmanagement",
+            "description": "Aufgaben effizient organisieren und priorisieren, realistische Fristen setzen und Ressourcen effektiv nutzen, um die Produktivität zu maximieren und die rechtzeitige Erledigung der Arbeit zu gewährleisten."
           },
           "fr": {
-            "title": "Expérience Utilisateur d'Applications Mobiles",
-            "description": "Compétent dans la création d'expériences centrées sur l'utilisateur au sein des applications mobiles, garantissant des interactions fluides et intuitives."
+            "title": "Gestion du temps",
+            "description": "Organiser etPrioriser efficacement les tâches, fixer des délais réalistes et utiliser efficacement les ressources pour maximiser la productivité et assurer la réalisation du travail dans les délais."
           }
         }
       }
