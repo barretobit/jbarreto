@@ -30,10 +30,10 @@
 
     "email": {
       "id": "email",
-      "value": "barretobit@gmail.com",
-      "valueShort": "barretobit@gmail.com",
+      "value": "@gmail.com",
+      "valueShort": "@gmail.com",
       "faIcon": "fa-solid fa-envelope",
-      "href": "mailto:barretobit@gmail.com"
+      "href": "mailto:@gmail.com"
     },
 
     "linkedin": {
@@ -54,10 +54,10 @@
 
     "phone": {
       "id": "phone",
-      "value": "+ 41 76 3999 755",
-      "valueShort": "+ 41 76 3999 755",
+      "value": "+ 41 ",
+      "valueShort": "+ 41 ",
       "faIcon": "fa-solid fa-phone",
-      "href": "tel:0763999755"
+      "href": "tel:"
     }
   }
 }
